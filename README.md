@@ -1,2 +1,2 @@
-This is Git Lecture ют╢о╢ы. 
+This is Git Lecture 
 
